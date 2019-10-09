@@ -231,3 +231,12 @@
     }
   }
 }
+
+@media (max-width: 992px) {
+  .dots {
+    margin: 0;
+  }
+  .slider {
+    display: none;
+  }
+}
