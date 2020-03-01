@@ -6,7 +6,7 @@ Projekt polega na dopracowaniu rozpoczętej strony sklepu internetowego.
 
 ## Demo
 
-[Link do strony z podglądem projektu](https://trusting-lovelace-0f4130.netlify.com/#).
+[Link do strony z podglądem projektu](https://macieksznu.github.io/WDP-08-02/).
 
 ## Inicjacja projektu
 
@@ -54,5 +54,5 @@ dla plików, które zostały wybrane do za-commit'owania.
 - wykorzsytanie biblioteki tiny-slider do obsługi sliderów w projekcie.
 
 4. Repozytorium GIT
-   [Link do repozytorium projektu](https://github.com/kstobiecki/WDP-08-02).
+   [Link do pełnego repozytorium projektu](https://github.com/kstobiecki/WDP-08-02).
    Merge zmian lub nowych funkcjonalności w projekcie wymaga co najmniej jednego approve od pozostałych członków zespołu.
